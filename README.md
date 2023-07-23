@@ -1,7 +1,12 @@
 
 
 # Aplicativo de Login by Mj7
+
+FOTO 1 :
 ![Uploading Captura de ecrã 2023-07-23, às 18.35.56.png…]()
+
+FOTO 2 :
+![Captura de ecrã 2023-07-23, às 18 36 02](https://github.com/MarioJambo/interface/assets/97255965/92218dfd-b8d2-4ece-af96-373f0d7f52f6)
 
 
 Este é um simples aplicativo de login em React que demonstra como criar um formulário de login básico e fazer uma solicitação assíncrona para autenticar o usuário em um servidor backend.
