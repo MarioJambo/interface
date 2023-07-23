@@ -2,12 +2,7 @@
 
 # Aplicativo de Login by Mj7
 
-<H1>ILUSTRAÇÃO 1</H1>
-![Captura de ecrã 2023-07-23, às 18 35 56](https://github.com/MarioJambo/interface/assets/97255965/ccc9452d-d161-4aa8-97ea-85ba551a38dc)
-
-
-
-<H1>ILUSTRAÇÃO 2</H1>
+<H1>ILUSTRAÇÃO VISUAL</H1>
 ![Captura de ecrã 2023-07-23, às 18 36 02](https://github.com/MarioJambo/interface/assets/97255965/92218dfd-b8d2-4ece-af96-373f0d7f52f6)
 
 
