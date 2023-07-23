@@ -18,13 +18,13 @@ Este é um simples aplicativo de login em React que demonstra como criar um form
 2. Clone este repositório para o seu ambiente local usando o seguinte comando:
 
 ```
-git clone https://github.com/seu-usuario/react-login-app.git
+git clone https://github.com/MarioJambo/interface.git
 ```
 
 3. Navegue para o diretório do projeto:
 
 ```
-cd react-login-app
+cd interface
 ```
 
 4. Instale as dependências do projeto executando o seguinte comando:
